@@ -9,7 +9,7 @@ public class Project extends JFrame implements ActionListener {
     String[] comboBoxValues ={"Large","Medium","Small"};
     //String[] comboBoxValues = {"Priyanka's Pepperoni Pizza","Multigrain Pizza ","Meat Pizza Recipe",
       //  "Margherita Pizza","Vegetarian Pizza","Neapolitan pizza","Other"};
-    JCheckBox item = new JCheckBox("cheese");
+    JCheckBox item = new JCheckBox("potato");
      JCheckBox item2 = new JCheckBox("chicken");
       JCheckBox item3 = new JCheckBox("olive");
        JCheckBox item4 = new JCheckBox("beef");
